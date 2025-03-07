@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b6f9a2930a17c03b",
+    "type": "split",
+    "children": [
+      {
+        "id": "334147622a69e89e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f37f942c1a4ade18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 DDIC/00 OSC Generation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 OSC Generation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49a1503697e26f44",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ae3dc4f205fcf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9871bfbfbc5cfc5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bcc66db64b3094d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5a3b39433ccfbc1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "d732269925c94f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ab498f7be0ca68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f896ede193c3dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "ff8681c76056600f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "备忘.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "备忘 的反向链接列表"
+            }
+          },
+          {
+            "id": "96a1914b9339742f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "备忘.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "备忘 的出链列表"
+            }
+          },
+          {
+            "id": "08a1922f7229422d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "f37f942c1a4ade18",
+  "lastOpenFiles": [
+    "04 Panel/SDL & DDL.md",
+    "00 Picture/Pasted image 20250222145931.png",
+    "04 Panel/Pol-Less.md",
+    "半导体行业/MOSFET工作原理.md",
+    "00 Picture/7T1C 等效电路阶段二.png",
+    "05 Algorithm IP/Application Related/Scaling up.md",
+    "生活/股票.md",
+    "备忘.md",
+    "2025-02-17.md",
+    "05 Algorithm IP/Image Quality Related/Auto Current Limit.md",
+    "05 Algorithm IP/Image Quality Related/Color Gamut Mapping.md",
+    "05 Algorithm IP/Application Related/Local HBM.md",
+    "生活/Big House.md",
+    "半导体行业/DDIC晶圆厂能（2024Q4 Updated）.md",
+    "04 Panel/Tandem OLED.md",
+    "04 Panel/LTPS.md",
+    "04 Panel/LTPO.md",
+    "04 Panel/FIAA.md",
+    "04 Panel/eLEAP.md",
+    "03 DDIC/02 NVM.md",
+    "03 DDIC/03 Interface.md",
+    "03 DDIC/04 Data Path.md",
+    "03 DDIC/05 TCON.md",
+    "03 DDIC/07 Gate Driver.md",
+    "05 Algorithm IP/Panel Related/De-mura.md",
+    "05 Algorithm IP/Panel Related/De-Burn in.md",
+    "05 Algorithm IP/Panel Related/CrossTalk Compensation.md",
+    "00 Picture/SPR示意.png",
+    "00 Picture/SPR效果图.png",
+    "00 Picture/Tandem OLED.png",
+    "00 Picture/TM-N16T SPEC.png",
+    "00 Picture/DSC-1.2a Encoding Process.png",
+    "00 Picture/DSC-1.2a decoding Process.png",
+    "00 Picture/Demura Compensation Flow.png",
+    "00 Picture/Pasted image 20240523164009.png",
+    "经济学",
+    "半导体行业",
+    "人工智能",
+    "生活",
+    "C# sharp",
+    "05 Algorithm IP/Application Related",
+    "05 Algorithm IP/Power Related",
+    "05 Algorithm IP/Image Quality Related",
+    "05 Algorithm IP/Panel Related",
+    "04 Panel/Compensation IP",
+    "未命名.canvas"
+  ]
+}
