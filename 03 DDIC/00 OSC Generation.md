@@ -1,11 +1,19 @@
-# 基本概念
+ # 基本概念
 ---
 - 这个模块主要是为芯片提供晶振，这个频率会作为基准频率在分频后给各个电路模块使用；
-- 客户通常会询问OSC支持的trim step、精度及范围，**通常会提供较宽松的版本给内部留空间，需要找PM对齐**；
+- 客户通常会询问OSC支持的trim step、精度及范围；
 - Trim Step：Trim Code 每档对OSC频率的调整精度；
-- 范围：OSC频率可支持的范围，**涉及客户评估项目频点**；
+- OSC频率可支持的范围，**涉及客户评估项目频点**；
 - 精度：OSC中心频率受温度，以及不同IC间的波动范围，**需要区分是否有开追频**；
-- 验证成功了吗
+- 
+## 客户需求
+
+| **OSC Item** |                                                                         **Requirement**                                                                          |                                                                              **Supplier**                                                                              |
+| :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    Range     |                                                                 Ex: 91.8~128.5MHz，default 120MHz                                                                 |                                                                        max 128Mhz，support trim                                                                         |
+|  Tolerance   | Ex:≤0.5% per OSC trimming step<br>OSC ± <0.2% varation@room teperature<br>OSC ± <0.2% varation@all teperature with dynamic trimming tracking mipi clock function | 1. ≤0.5% per OSC trimming step<br>2. OSC ± <1.5% varation@room teperature<br>3. OSC ± <0.7% varation@all teperature with dynamic trimming tracking mipi clock function |
+- 频点选择
+
 ## 多频点在应用上有什么差别？
 
 - 在分多个OSC的情况下，**通常是考量了功耗因素，特别是有datapath与dsc频点单独设的方案**
