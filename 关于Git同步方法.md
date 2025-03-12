@@ -8,7 +8,7 @@ git config --global user.email "你的邮箱（如john@example.com）"
 # 配置SSH密钥
 ---
 - 作用：帮助PC获取github远程仓库的权限
-![[Pasted image 20250307181711.png]]
+![[Github_SSH Keys.png]]
 - 打开 ​**Git Bash**，输入：
 	```bash
 	ssh-keygen -t ed25519 -C "你的邮箱"
