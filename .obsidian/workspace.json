@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 DDIC/05 TCON.md",
+                "file": "03 DDIC/00 OSC Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 TCON"
+              "title": "00 OSC Generation"
+            }
+          },
+          {
+            "id": "a6ff638082bea45d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/股票.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "股票"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,12 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "生活/股票.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "股票 的大纲"
             }
           },
           {
@@ -154,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +183,18 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f37f942c1a4ade18",
+  "active": "a6ff638082bea45d",
   "lastOpenFiles": [
+    "生活/Big House.md",
+    "关于Git同步方法.md",
+    "ICNA3520_Initialcode_Transform.md",
+    "03 DDIC/05 TCON.md",
+    "工作报告/每日待办.md",
     "03 DDIC/01 Power Generation.md",
     "03 DDIC/03 Interface.md",
     "03 DDIC/04 Data Path.md",
     "03 DDIC/02 NVM.md",
     "03 DDIC/00 OSC Generation.md",
-    "03 DDIC/05 TCON.md",
     "03 DDIC/07 Gate Driver.md",
     "03 DDIC/06 Source Driver.md",
     "00 Picture/Pasted image 20250222145931.png",
@@ -183,12 +202,9 @@
     "00 Picture/Github_SSH Keys.png",
     "生活/股票.md",
     "生活/保险.md",
-    "关于Git同步方法.md",
-    "ICNA3520_Initialcode_Transform.md",
     "README.md",
     "OSC_Trim场景对照表.md",
     "模版/模块模板.md",
-    "工作报告/每日待办.md",
     "04 Panel/SDL & DDL.md",
     "04 Panel/Pol-Less.md",
     "半导体行业/MOSFET工作原理.md",
@@ -199,7 +215,6 @@
     "05 Algorithm IP/Image Quality Related/Auto Current Limit.md",
     "05 Algorithm IP/Image Quality Related/Color Gamut Mapping.md",
     "05 Algorithm IP/Application Related/Local HBM.md",
-    "生活/Big House.md",
     "00 Picture/SPR示意.png",
     "00 Picture/SPR效果图.png",
     "00 Picture/Tandem OLED.png",
