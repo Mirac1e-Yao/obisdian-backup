@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/股票.md",
+                "file": "03 DDIC/05 TCON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "股票"
+              "title": "05 TCON"
+            }
+          },
+          {
+            "id": "c88221487c2b0e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demura框架图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Demura框架图"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/股票.md",
+                "file": "Demura框架图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "股票 的大纲"
+              "title": "Demura框架图 的大纲"
             }
           },
           {
@@ -183,38 +197,38 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a6ff638082bea45d",
+  "active": "c88221487c2b0e1a",
   "lastOpenFiles": [
-    "生活/Big House.md",
+    "03 DDIC/05 TCON.md",
+    "Demura框架图.md",
+    "03 DDIC/04 Data Path.md",
+    "03 DDIC/03 Interface.md",
+    "03 DDIC/02 NVM.md",
+    "生活/股票.md",
+    "工作报告/鼎鸿.md",
+    "工作报告/每日待办.md",
+    "工作报告/闲时作业.md",
+    "模版/模块模板.md",
+    "工作报告/02 乐拓微.md",
+    "03 DDIC/01 Power Generation.md",
     "关于Git同步方法.md",
     "ICNA3520_Initialcode_Transform.md",
-    "03 DDIC/05 TCON.md",
-    "工作报告/每日待办.md",
-    "03 DDIC/01 Power Generation.md",
-    "03 DDIC/03 Interface.md",
-    "03 DDIC/04 Data Path.md",
-    "03 DDIC/02 NVM.md",
+    "README.md",
+    "生活/保险.md",
+    "工作报告/芯片失效分析.md",
     "03 DDIC/00 OSC Generation.md",
+    "生活/Big House.md",
     "03 DDIC/07 Gate Driver.md",
     "03 DDIC/06 Source Driver.md",
     "00 Picture/Pasted image 20250222145931.png",
     "00 Picture/NMOS_导通原理示意图.png",
     "00 Picture/Github_SSH Keys.png",
-    "生活/股票.md",
-    "生活/保险.md",
-    "README.md",
     "OSC_Trim场景对照表.md",
-    "模版/模块模板.md",
     "04 Panel/SDL & DDL.md",
     "04 Panel/Pol-Less.md",
     "半导体行业/MOSFET工作原理.md",
     "00 Picture/7T1C 等效电路阶段二.png",
     "05 Algorithm IP/Application Related/Scaling up.md",
-    "备忘.md",
-    "2025-02-17.md",
-    "05 Algorithm IP/Image Quality Related/Auto Current Limit.md",
-    "05 Algorithm IP/Image Quality Related/Color Gamut Mapping.md",
-    "05 Algorithm IP/Application Related/Local HBM.md",
     "00 Picture/SPR示意.png",
     "00 Picture/SPR效果图.png",
     "00 Picture/Tandem OLED.png",
