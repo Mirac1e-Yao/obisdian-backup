@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关于Git同步方法.md",
+                "file": "工作报告/ICNA3512_Lesson_Learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于Git同步方法"
+              "title": "ICNA3512_Lesson_Learn"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "关于Git同步方法.md",
+                "file": "工作报告/ICNA3512_Lesson_Learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "关于Git同步方法 的大纲"
+              "title": "ICNA3512_Lesson_Learn 的大纲"
             }
           },
           {
@@ -199,9 +199,15 @@
   },
   "active": "c88221487c2b0e1a",
   "lastOpenFiles": [
+    "00 Picture/Pasted image 20250327175827.png",
+    "00 Picture/Pasted image 20250327175814.png",
+    "00 Picture/Pasted image 20250327175734.png",
+    "00 Picture/解题分析脉络.png",
+    "00 Picture/Pasted image 20250222145931.png",
+    "工作报告/ICNA3512_Lesson_Learn.md",
+    "关于Git同步方法.md",
     "Demura框架图.md",
     "ICNA3520_Initialcode_Transform.md",
-    "关于Git同步方法.md",
     "生活/Big House.md",
     "生活/股票.md",
     "05 Algorithm IP/Panel Related/De-mura.md",
@@ -221,20 +227,14 @@
     "03 DDIC/00 OSC Generation.md",
     "03 DDIC/07 Gate Driver.md",
     "03 DDIC/06 Source Driver.md",
-    "00 Picture/Pasted image 20250222145931.png",
     "00 Picture/NMOS_导通原理示意图.png",
     "00 Picture/Github_SSH Keys.png",
     "OSC_Trim场景对照表.md",
     "04 Panel/SDL & DDL.md",
-    "04 Panel/Pol-Less.md",
-    "半导体行业/MOSFET工作原理.md",
     "00 Picture/7T1C 等效电路阶段二.png",
     "00 Picture/SPR示意.png",
     "00 Picture/SPR效果图.png",
     "00 Picture/Tandem OLED.png",
-    "00 Picture/TM-N16T SPEC.png",
-    "00 Picture/DSC-1.2a Encoding Process.png",
-    "00 Picture/DSC-1.2a decoding Process.png",
     "经济学",
     "半导体行业",
     "人工智能",
