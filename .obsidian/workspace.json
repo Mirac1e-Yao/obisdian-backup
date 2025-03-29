@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作报告/ICNA3512_Lesson_Learn.md",
+                "file": "半导体行业/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICNA3512_Lesson_Learn"
+              "title": "未命名"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作报告/ICNA3512_Lesson_Learn.md",
+                "file": "半导体行业/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ICNA3512_Lesson_Learn 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -199,12 +199,15 @@
   },
   "active": "c88221487c2b0e1a",
   "lastOpenFiles": [
+    "半导体行业/DDIC晶圆厂能（2024Q4 Updated）.md",
+    "半导体行业/未命名.md",
+    "半导体行业/MOSFET工作原理.md",
+    "工作报告/ICNA3512_Lesson_Learn.md",
     "00 Picture/Pasted image 20250327175827.png",
     "00 Picture/Pasted image 20250327175814.png",
     "00 Picture/Pasted image 20250327175734.png",
     "00 Picture/解题分析脉络.png",
     "00 Picture/Pasted image 20250222145931.png",
-    "工作报告/ICNA3512_Lesson_Learn.md",
     "关于Git同步方法.md",
     "Demura框架图.md",
     "ICNA3520_Initialcode_Transform.md",
@@ -229,12 +232,9 @@
     "03 DDIC/06 Source Driver.md",
     "00 Picture/NMOS_导通原理示意图.png",
     "00 Picture/Github_SSH Keys.png",
-    "OSC_Trim场景对照表.md",
-    "04 Panel/SDL & DDL.md",
     "00 Picture/7T1C 等效电路阶段二.png",
     "00 Picture/SPR示意.png",
     "00 Picture/SPR效果图.png",
-    "00 Picture/Tandem OLED.png",
     "经济学",
     "半导体行业",
     "人工智能",
