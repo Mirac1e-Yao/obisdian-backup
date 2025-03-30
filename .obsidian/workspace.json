@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
+                "file": "生活/股票.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICNA3512_DemuraRAM_Checksum_Calculate"
+              "title": "股票"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
+                "file": "生活/股票.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ICNA3512_DemuraRAM_Checksum_Calculate 的大纲"
+              "title": "股票 的大纲"
             }
           },
           {
@@ -199,12 +199,12 @@
   },
   "active": "c88221487c2b0e1a",
   "lastOpenFiles": [
-    "关于Git同步方法.md",
+    "工作报告/每日待办.md",
     "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
+    "关于Git同步方法.md",
     "生活/Big House.md",
     "C# sharp/ICNA3520_Initialcode_Transform.md",
     "README.md",
-    "工作报告/每日待办.md",
     "Demura框架图.md",
     "Python",
     "未命名.md",
