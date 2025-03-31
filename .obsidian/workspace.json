@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/股票.md",
+                "file": "工作报告/工作笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "股票"
+              "title": "工作笔记"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/股票.md",
+                "file": "工作报告/工作笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "股票 的大纲"
+              "title": "工作笔记 的大纲"
             }
           },
           {
@@ -200,6 +200,8 @@
   "active": "c88221487c2b0e1a",
   "lastOpenFiles": [
     "工作报告/每日待办.md",
+    "工作报告/工作笔记.md",
+    "生活/股票.md",
     "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
     "关于Git同步方法.md",
     "生活/Big House.md",
@@ -233,8 +235,6 @@
     "半导体行业/供应链.md",
     "半导体行业/项目阶段术语.md",
     "半导体行业/芯片失效分析.md",
-    "工作报告/闲时作业.md",
-    "工作报告/鼎鸿.md",
     "00 Picture/解题分析脉络.png",
     "经济学",
     "半导体行业",
