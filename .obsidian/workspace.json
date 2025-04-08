@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作报告/工作笔记.md",
+                "file": "投资/复盘日志.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工作笔记"
+              "title": "复盘日志"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作报告/工作笔记.md",
+                "file": "投资/复盘日志.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作笔记 的大纲"
+              "title": "复盘日志 的大纲"
             }
           },
           {
@@ -199,11 +199,14 @@
   },
   "active": "c88221487c2b0e1a",
   "lastOpenFiles": [
-    "生活/Big House.md",
-    "生活/关于附近的消失.md",
+    "投资/保险.md",
+    "投资/复盘日志.md",
+    "投资/股票.md",
+    "投资",
+    "生活/复盘.md",
     "工作报告/工作笔记.md",
+    "投资/Big House.md",
     "工作报告/每日待办.md",
-    "生活/股票.md",
     "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
     "关于Git同步方法.md",
     "C# sharp/ICNA3520_Initialcode_Transform.md",
@@ -233,8 +236,6 @@
     "00 Picture/GOA_电路工作原理示意图.png",
     "工作报告/ICNA3512_Lesson_Learn.md",
     "半导体行业/DDIC晶圆厂能（2024Q4 Updated）.md",
-    "半导体行业/供应链.md",
-    "半导体行业/项目阶段术语.md",
     "00 Picture/解题分析脉络.png",
     "经济学",
     "半导体行业",
@@ -244,7 +245,6 @@
     "05 Algorithm IP/Application Related",
     "05 Algorithm IP/Power Related",
     "05 Algorithm IP/Image Quality Related",
-    "05 Algorithm IP/Panel Related",
     "未命名.canvas"
   ]
 }
