@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投资/复盘日志.md",
+                "file": "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "复盘日志"
+              "title": "ICNA3512_DemuraRAM_Checksum_Calculate"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投资/复盘日志.md",
+                "file": "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "复盘日志 的大纲"
+              "title": "ICNA3512_DemuraRAM_Checksum_Calculate 的大纲"
             }
           },
           {
@@ -199,8 +199,19 @@
   },
   "active": "c88221487c2b0e1a",
   "lastOpenFiles": [
-    "投资/保险.md",
+    "C# sharp/ICNA3520_Initialcode_Transform.md",
+    "03 DDIC/00 OSC Generation.md",
+    "半导体行业/供应链.md",
+    "半导体行业/项目阶段术语.md",
+    "半导体行业/芯片失效分析.md",
+    "04 Panel/LTPO.md",
+    "04 Panel/eLEAP.md",
+    "04 Panel/SDL & DDL.md",
+    "04 Panel/Tandem OLED.md",
+    "05 Algorithm IP/Image Quality Related/Auto Current Limit.md",
+    "05 Algorithm IP/Application Related/Local HBM.md",
     "投资/复盘日志.md",
+    "投资/保险.md",
     "投资/股票.md",
     "投资",
     "生活/复盘.md",
@@ -209,7 +220,6 @@
     "工作报告/每日待办.md",
     "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
     "关于Git同步方法.md",
-    "C# sharp/ICNA3520_Initialcode_Transform.md",
     "README.md",
     "Demura框架图.md",
     "Python",
@@ -223,19 +233,9 @@
     "00 Picture/芯片开发项目成员.png",
     "00 Picture/Pasted image 20250327175827.png",
     "00 Picture/Pasted image 20250327175814.png",
-    "04 Panel/SDL & DDL.md",
-    "04 Panel/Tandem OLED.md",
     "03 DDIC/07 Gate Driver.md",
     "03 DDIC/01 Power Generation.md",
-    "03 DDIC/00 OSC Generation.md",
-    "03 DDIC/02 NVM.md",
-    "03 DDIC/03 Interface.md",
-    "03 DDIC/04 Data Path.md",
-    "03 DDIC/05 TCON.md",
-    "03 DDIC/06 Source Driver.md",
     "00 Picture/GOA_电路工作原理示意图.png",
-    "工作报告/ICNA3512_Lesson_Learn.md",
-    "半导体行业/DDIC晶圆厂能（2024Q4 Updated）.md",
     "00 Picture/解题分析脉络.png",
     "经济学",
     "半导体行业",
