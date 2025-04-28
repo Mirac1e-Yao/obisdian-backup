@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b6f9a2930a17c03b",
+    "id": "5ef3f2c38d430e87",
     "type": "split",
     "children": [
       {
-        "id": "334147622a69e89e",
+        "id": "2e408d498b75547a",
         "type": "tabs",
         "children": [
           {
-            "id": "f37f942c1a4ade18",
+            "id": "c2449f94e154d412",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,51 +20,22 @@
               "icon": "lucide-file",
               "title": "00 OSC Generation"
             }
-          },
-          {
-            "id": "a6ff638082bea45d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 DDIC/05 TCON.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 TCON"
-            }
-          },
-          {
-            "id": "c88221487c2b0e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投资/温铁军对谈卢麒元 全球化危机与中国改革之路.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "温铁军对谈卢麒元 全球化危机与中国改革之路"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "49a1503697e26f44",
+    "id": "18ffbb36946b09ac",
     "type": "split",
     "children": [
       {
-        "id": "a1ae3dc4f205fcf0",
+        "id": "2127b49ac0d10fef",
         "type": "tabs",
         "children": [
           {
-            "id": "9871bfbfbc5cfc5c",
+            "id": "6a184cf1246ab68a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "bcc66db64b3094d2",
+            "id": "11f94b39cb66a735",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "5a3b39433ccfbc1b",
+            "id": "50098880b0a2dda3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,38 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 300
   },
   "right": {
-    "id": "d732269925c94f30",
+    "id": "bea0704b2448bba9",
     "type": "split",
     "children": [
       {
-        "id": "74ab498f7be0ca68",
+        "id": "42697a7a973e2c20",
         "type": "tabs",
         "children": [
           {
-            "id": "5f896ede193c3dd7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "投资/温铁军对谈卢麒元 全球化危机与中国改革之路.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "温铁军对谈卢麒元 全球化危机与中国改革之路 的大纲"
-            }
-          },
-          {
-            "id": "ff8681c76056600f",
+            "id": "8d24430545569fe4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "备忘.md",
+                "file": "03 DDIC/00 OSC Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "备忘 的反向链接列表"
+              "title": "00 OSC Generation 的反向链接列表"
             }
           },
           {
-            "id": "96a1914b9339742f",
+            "id": "e0f4a9206f621be4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "备忘.md",
+                "file": "工作报告/工作笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "备忘 的出链列表"
+              "title": "工作笔记 的出链列表"
             }
           },
           {
-            "id": "08a1922f7229422d",
+            "id": "c0739864551d3140",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,12 +135,27 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "0b836663ac4306b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工作报告/工作笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "工作笔记 的大纲"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,54 +168,34 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c88221487c2b0e1a",
+  "active": "c2449f94e154d412",
   "lastOpenFiles": [
-    "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
-    "投资/温铁军对谈卢麒元 全球化危机与中国改革之路.md",
-    "C# sharp/ICNA3520_Initialcode_Transform.md",
+    "03 DDIC/02 NVM.md",
+    "05 Algorithm IP/Panel Related/ELVDD Compensation.md",
+    "05 Algorithm IP/Panel Related/IR Compensation.md",
+    "05 Algorithm IP/Panel Related/CrossTalk Compensation.md",
+    "05 Algorithm IP/Panel Related/De-mura.md",
+    "05 Algorithm IP/Panel Related/Edge Color Compensation.md",
+    "05 Algorithm IP/Panel Related/Over Drive Compensation.md",
+    "05 Algorithm IP/Panel Related/Round Corner & Notch.md",
+    "05 Algorithm IP/Panel Related/Sub Pixel Rendering.md",
+    "05 Algorithm IP/Panel Related/De-Burn in.md",
+    "00 Picture/ELVDD Comp. 走线示意.png",
+    "00 Picture/ELVDD面内与面外接法的差异.jpg",
+    "03 DDIC/05 TCON.md",
+    "03 DDIC/04 Data Path.md",
+    "03 DDIC/03 Interface.md",
+    "03 DDIC/01 Power Generation.md",
     "03 DDIC/00 OSC Generation.md",
-    "半导体行业/供应链.md",
-    "半导体行业/项目阶段术语.md",
-    "半导体行业/芯片失效分析.md",
-    "04 Panel/LTPO.md",
-    "04 Panel/eLEAP.md",
-    "04 Panel/SDL & DDL.md",
     "04 Panel/Tandem OLED.md",
-    "05 Algorithm IP/Image Quality Related/Auto Current Limit.md",
-    "05 Algorithm IP/Application Related/Local HBM.md",
-    "投资/复盘日志.md",
-    "投资/保险.md",
-    "投资/股票.md",
-    "投资",
-    "生活/复盘.md",
-    "工作报告/工作笔记.md",
-    "投资/Big House.md",
-    "工作报告/每日待办.md",
-    "关于Git同步方法.md",
-    "README.md",
-    "Demura框架图.md",
-    "Python",
-    "未命名.md",
-    "半导体行业/MOSFET工作原理.md",
-    "00 Picture/ICNA3512_Flash_WriteNG解析SOP.png",
-    "00 Picture/Pasted image 20250327175734.png",
-    "00 Picture/ICNA3512_checksum计算方法.png",
-    "00 Picture/芯片开发模拟与数字协作流程示意图.png",
-    "00 Picture/芯片设计模拟与数字的区别.png",
-    "00 Picture/芯片开发项目成员.png",
-    "00 Picture/Pasted image 20250327175827.png",
-    "00 Picture/Pasted image 20250327175814.png",
+    "04 Panel/SDL & DDL.md",
     "03 DDIC/07 Gate Driver.md",
-    "00 Picture/GOA_电路工作原理示意图.png",
-    "00 Picture/解题分析脉络.png",
-    "经济学",
-    "半导体行业",
-    "人工智能",
-    "生活",
-    "C# sharp",
-    "05 Algorithm IP/Application Related",
-    "05 Algorithm IP/Power Related",
-    "05 Algorithm IP/Image Quality Related",
-    "未命名.canvas"
+    "04 Panel/CUP.md",
+    "04 Panel/eLEAP.md",
+    "工作报告/工作笔记.md",
+    "工作报告/会议笔记.md",
+    "关于Git同步方法.md",
+    "投资/温铁军对谈卢麒元 全球化危机与中国改革之路.md",
+    "投资/复盘日志.md"
   ]
 }
