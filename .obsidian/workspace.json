@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 DDIC/00 OSC Generation.md",
+                "file": "工作报告/工作笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 OSC Generation"
+              "title": "工作笔记"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 DDIC/00 OSC Generation.md",
+                "file": "工作报告/工作笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "00 OSC Generation 的反向链接列表"
+              "title": "工作笔记 的反向链接列表"
             }
           },
           {
@@ -170,6 +170,7 @@
   },
   "active": "c2449f94e154d412",
   "lastOpenFiles": [
+    "03 DDIC/00 OSC Generation.md",
     "03 DDIC/02 NVM.md",
     "05 Algorithm IP/Panel Related/ELVDD Compensation.md",
     "05 Algorithm IP/Panel Related/IR Compensation.md",
@@ -186,7 +187,6 @@
     "03 DDIC/04 Data Path.md",
     "03 DDIC/03 Interface.md",
     "03 DDIC/01 Power Generation.md",
-    "03 DDIC/00 OSC Generation.md",
     "04 Panel/Tandem OLED.md",
     "04 Panel/SDL & DDL.md",
     "03 DDIC/07 Gate Driver.md",
