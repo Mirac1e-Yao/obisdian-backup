@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "De-mura"
             }
+          },
+          {
+            "id": "f878bb24b19b8e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Algorithm IP/Panel Related/De-mura.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "De-mura 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -168,8 +183,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c2449f94e154d412",
+  "active": "f878bb24b19b8e4c",
   "lastOpenFiles": [
+    "C# sharp/ICNA3520_Initialcode_Transform.md",
+    "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
+    "关于Git同步方法.md",
     "工作报告/工作笔记.md",
     "03 DDIC/00 OSC Generation.md",
     "03 DDIC/02 NVM.md",
@@ -194,8 +212,6 @@
     "04 Panel/CUP.md",
     "04 Panel/eLEAP.md",
     "工作报告/会议笔记.md",
-    "关于Git同步方法.md",
-    "投资/温铁军对谈卢麒元 全球化危机与中国改革之路.md",
-    "投资/复盘日志.md"
+    "投资/温铁军对谈卢麒元 全球化危机与中国改革之路.md"
   ]
 }
