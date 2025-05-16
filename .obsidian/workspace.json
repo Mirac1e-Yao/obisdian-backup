@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03 DDIC/01 Power Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01 Power Generation"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03 DDIC/01 Power Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "01 Power Generation 的反向链接列表"
             }
           },
           {
@@ -185,6 +185,15 @@
   },
   "active": "f878bb24b19b8e4c",
   "lastOpenFiles": [
+    "03 DDIC/03 Interface.md",
+    "03 DDIC/04 Data Path.md",
+    "03 DDIC/05 TCON.md",
+    "03 DDIC/07 Gate Driver.md",
+    "05 Algorithm IP/Panel Related/CrossTalk Compensation.md",
+    "05 Algorithm IP/Panel Related/漏流补偿.md",
+    "工作报告/每日待办.md",
+    "03 DDIC/01 Power Generation.md",
+    "README.md",
     "C# sharp/ICNA3520_Initialcode_Transform.md",
     "Python/ICNA3512_DemuraRAM_Checksum_Calculate.md",
     "关于Git同步方法.md",
@@ -193,7 +202,6 @@
     "03 DDIC/02 NVM.md",
     "05 Algorithm IP/Panel Related/ELVDD Compensation.md",
     "05 Algorithm IP/Panel Related/IR Compensation.md",
-    "05 Algorithm IP/Panel Related/CrossTalk Compensation.md",
     "05 Algorithm IP/Panel Related/De-mura.md",
     "05 Algorithm IP/Panel Related/Edge Color Compensation.md",
     "05 Algorithm IP/Panel Related/Over Drive Compensation.md",
@@ -202,16 +210,8 @@
     "05 Algorithm IP/Panel Related/De-Burn in.md",
     "00 Picture/ELVDD Comp. 走线示意.png",
     "00 Picture/ELVDD面内与面外接法的差异.jpg",
-    "03 DDIC/05 TCON.md",
-    "03 DDIC/04 Data Path.md",
-    "03 DDIC/03 Interface.md",
-    "03 DDIC/01 Power Generation.md",
     "04 Panel/Tandem OLED.md",
     "04 Panel/SDL & DDL.md",
-    "03 DDIC/07 Gate Driver.md",
-    "04 Panel/CUP.md",
-    "04 Panel/eLEAP.md",
-    "工作报告/会议笔记.md",
-    "投资/温铁军对谈卢麒元 全球化危机与中国改革之路.md"
+    "04 Panel/CUP.md"
   ]
 }
