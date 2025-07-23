@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 DDIC/05 TCON.md",
+                "file": "04 Panel/SDL & DDL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 TCON"
+              "title": "SDL & DDL"
             }
           }
         ]
@@ -171,32 +171,32 @@
   },
   "active": "c2449f94e154d412",
   "lastOpenFiles": [
-    "03 DDIC/06 Source Driver.md",
+    "04 Panel/Tandem OLED.md",
+    "05 Algorithm IP/Application Related/Local HBM.md",
+    "05 Algorithm IP/Application Related/Scaling up.md",
+    "05 Algorithm IP/Image Quality Related/Auto Current Limit.md",
+    "05 Algorithm IP/Image Quality Related/Color Gamut Mapping.md",
+    "05 Algorithm IP/Image Quality Related/Image Enhance.md",
+    "05 Algorithm IP/Panel Related/漏流补偿.md",
+    "05 Algorithm IP/Panel Related/De-Burn in.md",
+    "05 Algorithm IP/Panel Related/Edge Color Compensation.md",
+    "05 Algorithm IP/Panel Related/ELVDD Compensation.md",
+    "05 Algorithm IP/Panel Related/IR Compensation.md",
+    "05 Algorithm IP/Panel Related/Over Drive Compensation.md",
+    "05 Algorithm IP/Panel Related/Round Corner & Notch.md",
     "半导体行业/DDIC晶圆厂能（2024Q4 Updated）.md",
     "半导体行业/MOSFET工作原理.md",
     "半导体行业/供应链.md",
-    "05 Algorithm IP/Panel Related/Over Drive Compensation.md",
-    "05 Algorithm IP/Panel Related/IR Compensation.md",
-    "05 Algorithm IP/Panel Related/ELVDD Compensation.md",
-    "03 DDIC/00 OSC Generation.md",
-    "03 DDIC/04 Data Path.md",
-    "投资/温铁军对谈卢麒元 全球化危机与中国改革之路.md",
-    "投资/保险.md",
-    "投资/复盘日志.md",
-    "工作报告/会议笔记.md",
-    "工作报告/每日待办.md",
-    "工作报告/ICNA3512_Lesson_Learn.md",
-    "投资/Big House.md",
-    "关于Git同步方法.md",
-    "05 Algorithm IP/Application Related/Local HBM.md",
-    "03 DDIC/05 TCON.md",
-    "工作报告/工作笔记.md",
     "半导体行业/项目阶段术语.md",
-    "03 DDIC/02 NVM.md",
-    "05 Algorithm IP/Panel Related/CrossTalk Compensation.md",
+    "03 DDIC/01 Power Generation.md",
+    "03 DDIC/04 Data Path.md",
     "05 Algorithm IP/Panel Related/De-mura.md",
-    "05 Algorithm IP/Panel Related/Edge Color Compensation.md",
-    "05 Algorithm IP/Panel Related/Round Corner & Notch.md",
+    "03 DDIC/00 OSC Generation.md",
+    "03 DDIC/02 NVM.md",
+    "03 DDIC/03 Interface.md",
+    "03 DDIC/05 TCON.md",
+    "03 DDIC/07 Gate Driver.md",
+    "03 DDIC/06 Source Driver.md",
     "00 Picture/ELVDD Comp. 走线示意.png",
     "00 Picture/ELVDD面内与面外接法的差异.jpg"
   ]
